@@ -9,6 +9,6 @@ ButtonBox server for the companion Android app: https://github.com/MohammadAdib/
 
 It should look similar to this:
 
-![](https://imgur.com/8Jw0bKu)
+![](https://i.imgur.com/8Jw0bKu.png)
 
 Enjoy!
